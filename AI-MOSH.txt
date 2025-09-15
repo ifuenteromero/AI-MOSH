@@ -3,3 +3,22 @@ AI-MOSH
 - What we can do with them
 - How to use them effectively
 - Practical concepts: tokens, cost, model selection, etc
+
+
+- AI engineer is not the same as a machine learning engineer.
+- Machine learning engineers build and train model, they clean data, tune architectures, and optimize training pipelines.
+    It's math - heavy and research - focused.
+- AI engineers, on the other hand, use pre-trained models, especially LLM, to build smarter applications.
+The don't need to understand the maths behind the model, the need to understand how to use it and how to integrate it into real world apps.
+
+SUMMARIZATION, TRANSLATION, INTELLIGENCE SEARCH, AUTOMATION, AND PERSONALIZED UX.
+
+
+ESSENTIAL AI SKILLS
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieveal- Augmented Generation (RAG)
+- Vector Databases
+- Building Agents
+
+
