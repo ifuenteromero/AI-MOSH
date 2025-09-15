@@ -1,1 +1,5 @@
 AI-MOSH
+- What Large Language Models (LLM) are
+- What we can do with them
+- How to use them effectively
+- Practical concepts: tokens, cost, model selection, etc
