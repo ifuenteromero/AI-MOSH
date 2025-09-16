@@ -49,6 +49,23 @@ A typical structure
 
 Input => LLM => Response
 
+TOKENS
+https://platform.openai.com/tokenizer?ref=haihai.ai
+Tokens directly impact cost
+
+Generate 1M output tokens GPT-4o mini => 0.6&
+Generate 1M output tokens GPT-4.1 => 8$
+
+SIZE matters
+
+Tokens cost money AND
+there is a limit to how many tokens a model can handle at once CONTEXT WINDOW
+
+CONTEXT WINDOW includes
+Our prompt (input)
+Model's Response
+The chat history
+
 
 
 
