@@ -22,3 +22,7 @@ ESSENTIAL AI SKILLS
 - Building Agents
 
 
+What is a LLM
+A system that's trained to understand and gnerate human Language
+Training matters a lot
+
