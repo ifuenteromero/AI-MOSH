@@ -26,3 +26,30 @@ What is a LLM
 A system that's trained to understand and gnerate human Language
 Training matters a lot
 
+As a developers we have to know how to implement language models into aplications.
+
+A typical structure 
+
+-   Front-end
+-   Back-end
+-   Database
+-   LLM. 
+
+
+1 SUMMARIZATION. Amazon summaries revies
+2- Content genaration. Emails, social media posts
+3- Text Classification. 
+    - Spam or not?
+    - Review: positive or negative?
+    - Ticket: billing, login, etc?
+4- TRANSLATION
+5- Data extracting: We can give an LLM some messy text, like a PDF, and ask it to 
+    pull out structured data like invoice number, amount, names, addresss, and so on.
+6- CHAT INTERFACE
+
+Input => LLM => Response
+
+
+
+
+
