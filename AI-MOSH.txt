@@ -28,6 +28,11 @@ Training matters a lot
 
 As a developers we have to know how to implement language models into aplications.
 
+Essential AI SKILLS
+-   Talk to AI models (prompting)
+-   Handling their limitations
+-   Integrate them into apps
+
 A typical structure 
 
 -   Front-end
