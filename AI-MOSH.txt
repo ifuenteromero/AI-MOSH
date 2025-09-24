@@ -72,7 +72,13 @@ Our prompt (input)
 Model's Response
 The chat history
 
-
-
+https://platform.openai.com/docs/models
+Choosing a model criteria
+-   REASONING. How smart does the model have to be
+-   SPEED. Bigger models = Slower. Smaller Models = Faster
+-   MODALITIES. Text, video, audio LMMs Large multi modal models
+-   COST. Number of tokens
+-   CONTEXT. Cuanto texto es capaz de procesar a la vez
+-   PRIVACY
 
 
