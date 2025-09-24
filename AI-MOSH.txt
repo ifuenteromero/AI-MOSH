@@ -33,6 +33,7 @@ Essential AI SKILLS
 -   Handling their limitations
 -   Integrate them into apps
 
+Application architecture
 A typical structure 
 
 -   Front-end
@@ -41,9 +42,9 @@ A typical structure
 -   LLM. 
 
 
-1 SUMMARIZATION. Amazon summaries revies
+1- SUMMARIZATION. Amazon summaries revies
 2- Content genaration. Emails, social media posts
-3- Text Classification. 
+3- Text Classification. Categorize inputs
     - Spam or not?
     - Review: positive or negative?
     - Ticket: billing, login, etc?
