@@ -77,8 +77,8 @@ Choosing a model criteria
 -   REASONING. How smart does the model have to be
 -   SPEED. Bigger models = Slower. Smaller Models = Faster
 -   MODALITIES. Text, video, audio LMMs Large multi modal models
--   COST. Number of tokens
--   CONTEXT. Cuanto texto es capaz de procesar a la vez
+-   COST. Based on the Number of tokens
+-   CONTEXT. Cuanto texto es capaz de procesar a la vez. Depnde del input, response y de chat history
 -   PRIVACY
 
 
